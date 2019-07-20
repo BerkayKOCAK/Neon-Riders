@@ -4,7 +4,6 @@
  ## CREDITS
  
  Project Manager  : Berkay KOÇAK
- 
  Lead Developer   : Adnan ÇIĞTEKİN
  
  
