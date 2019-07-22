@@ -1,5 +1,6 @@
 # NEON RIDERS
- A CoreDump game.
+
+ A Multiplatform 3D game project.
  
  ## CREDITS
  
